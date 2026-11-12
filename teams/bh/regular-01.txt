@@ -1,0 +1,53 @@
+Rotom-Wash @ Sitrus Berry
+Ability: Levitate
+EVs: 252 HP / 128 Def / 128 SpD
+Calm Nature
+- Hydro Pump
+- Volt Switch
+- Will-O-Wisp
+- Protect
+
+Arcanine @ Figy Berry
+Ability: Intimidate
+EVs: 252 HP / 76 Atk / 180 Spe
+Adamant Nature
+- Flare Blitz
+- Extreme Speed
+- Snarl
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Protect
+
+Togekiss @ Sitrus Berry
+Ability: Serene Grace
+EVs: 252 HP / 116 Def / 140 SpD
+Calm Nature
+- Air Slash
+- Follow Me
+- Thunder Wave
+- Protect
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 248 HP / 252 Atk / 8 SpD
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Superpower
+- Knock Off
+
+Milotic @ Leftovers
+Ability: Competitive
+EVs: 252 HP / 172 Def / 84 SpD
+Bold Nature
+- Scald
+- Ice Beam
+- Recover
+- Protect

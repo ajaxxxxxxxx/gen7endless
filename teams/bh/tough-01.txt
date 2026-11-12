@@ -1,0 +1,55 @@
+Salamence @ Salamencite
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Double-Edge
+- Dragon Dance
+- Earthquake
+- Protect
+
+Metagross @ Assault Vest
+Ability: Clear Body
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Meteor Mash
+- Zen Headbutt
+- Bullet Punch
+- Earthquake
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 88 Def / 168 SpD
+Relaxed Nature
+IVs: 0 Spe
+- Power Whip
+- Leech Seed
+- Gyro Ball
+- Protect
+
+Hydreigon @ Choice Specs
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Draco Meteor
+- Dark Pulse
+- Flamethrower
+- Flash Cannon
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+EVs: 252 HP / 172 Def / 84 SpD
+Sassy Nature
+IVs: 0 Spe
+- Spore
+- Rage Powder
+- Giga Drain
+- Protect
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Iron Head
+- Earthquake
+- Rock Slide
+- Protect
