@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "design_only_until_npc_validation_exception_is_implemented",
+  "allowed_battles": [30, 40],
+  "policy": {
+    "player_restricted_species": false,
+    "npc_restricted_species": true,
+    "npc_exception_only_for_benchmark": true,
+    "standard_ev_cap": 510,
+    "per_stat_ev_cap": 252,
+    "iv_maximum": 31,
+    "require_legal_mega_mechanics": true,
+    "unique_species_and_items": true
+  },
+  "candidates": [
+    {
+      "id": "deoxys-swords-dance-oddball",
+      "species": "Deoxys",
+      "category": "benchmark",
+      "balance_intent": "high natural speed, low practical damage; surprising physical moves",
+      "showdown_set": "Deoxys @ Sitrus Berry\nAbility: Inner Focus\nEVs: 252 HP / 4 Atk / 252 Spe\nJolly Nature\n- Swords Dance\n- Double Slap\n- Bite\n- Fire Punch",
+      "notes": "Gen 7 legal species and move existence still requires validation; intentionally nonoptimal"
+    },
+    {
+      "id": "dialga-metronome-stall",
+      "species": "Dialga",
+      "category": "benchmark",
+      "balance_intent": "legendary bulk and unusual turns; no consistent attacking move",
+      "showdown_set": "Dialga @ Bright Powder\nAbility: Pressure\nEVs: 252 HP / 128 Def / 128 SpD\nBold Nature\n- Calm Mind\n- Substitute\n- Protect\n- Metronome",
+      "notes": "Must implement safeguards against nonproductive repeated setup; this is an intentionally playful set"
+    }
+  ]
+}

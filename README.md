@@ -9,7 +9,7 @@ Local single-player Battle Maison/Tree-inspired Pokémon Showdown facility. **Th
 
 ### What counts as a legendary?
 
-We use the Showdown **Restricted Legendary** and **Mythical** species categories, not a blanket ban on all legendary Pokémon. Ordinary legendaries such as the legendary birds, beasts, and many others can remain available subject to the validator; box and event special Pokémon cannot appear in the player's or the AI's teams. The 30/40 milestone is renamed **ace** rather than legendary: legal powerful Pokémon may appear, not banned box legendaries.
+We use the Showdown **Restricted Legendary** and **Mythical** species categories, not a blanket ban on all legendary Pokémon. Ordinary legendaries such as the legendary birds, beasts, and many others can remain available subject to the validator; box and event special Pokémon cannot appear on **player** teams. Design-only NPC exceptions for milestone battles 30/40 are documented in `design/npc-benchmarks.md`; currently the implemented `ace` pool still uses legal species until a secure, server-side NPC-only validation path is built.
 
 ### Progression
 
