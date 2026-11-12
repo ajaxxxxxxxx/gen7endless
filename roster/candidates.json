@@ -30,6 +30,63 @@
       "weight": 1,
       "set": "Zapdos @ Assault Vest\nAbility: Pressure\nEVs: 252 HP / 128 Def / 128 SpD\nModest Nature\n- Thunderbolt\n- Heat Wave\n- Signal Beam\n- Scald",
       "notes": "Bulky special coverage ace: Zapdos is a non-restricted legendary. Scald is made available through custom move legality. Not optimized for maximum damage."
+    },
+    {
+      "id": "regirock-multiscale-hazard",
+      "species": "Regirock",
+      "tier": "tough",
+      "category": "rogue",
+      "tags": [
+        "hazards",
+        "speed-control",
+        "bulky-support",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Regirock @ Leftovers\nAbility: Multiscale\nEVs: 252 HP / 128 Def / 128 SpD\nImpish Nature\n- Electroweb\n- Toxic Spikes\n- Power-Up Punch\n- Stealth Rock",
+      "notes": "Electroweb is the speed-lowering Electric attack; Stealth Rock is the Rock-type entry hazard. Multiscale rewards keeping Regirock at full health. Mainly useful in singles; in doubles the hazards have reduced impact."
+    },
+    {
+      "id": "regice-snow-warning-hail",
+      "species": "Regice",
+      "tier": "regular",
+      "category": "dark-horse",
+      "tags": [
+        "weather-hail",
+        "bulky-special",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Regice @ Icy Rock\nAbility: Snow Warning\nEVs: 252 HP / 128 Def / 128 SpA\nModest Nature\n- Blizzard\n- Freeze-Dry\n- Thunderbolt\n- Protect",
+      "notes": "Snow Warning automatically summons hail in Gen 7; Icy Rock lengthens it. Blizzard is accurate in hail but the weather can chip non-Ice allies, so no automatic weather synergy is added."
+    },
+    {
+      "id": "registeel-levitate-utility",
+      "species": "Registeel",
+      "tier": "regular",
+      "category": "balanced",
+      "tags": [
+        "bulky-support",
+        "ground-immunity",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Registeel @ Rocky Helmet\nAbility: Levitate\nEVs: 252 HP / 128 Def / 128 SpD\nCareful Nature\n- Iron Head\n- Thunder Wave\n- Seismic Toss\n- Protect",
+      "notes": "Levitate removes Registeel's Ground weakness and can incidentally complement allied Earthquake users. Consistent utility but low offensive pressure."
+    },
+    {
+      "id": "regigigas-regenerator-pivot",
+      "species": "Regigigas",
+      "tier": "ace",
+      "category": "rogue",
+      "tags": [
+        "bulky-pivot",
+        "switch-control",
+        "independent"
+      ],
+      "weight": 1,
+      "set": "Regigigas @ Sitrus Berry\nAbility: Regenerator\nEVs: 252 HP / 128 Def / 128 SpD\nCareful Nature\n- U-turn\n- Volt Switch\n- Parting Shot\n- Dragon Tail",
+      "notes": "Three moves switch Regigigas out; Dragon Tail instead forces the target to switch and is therefore not a self-pivot move. Regenerator heals when leaving battle. Not a high-damage sweeper. No Parental Bond or Poison Heal."
     }
   ]
 }
