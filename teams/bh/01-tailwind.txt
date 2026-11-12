@@ -1,0 +1,53 @@
+Dialga @ Safety Goggles
+Ability: Prankster
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Tailwind
+- Spacial Rend
+- Helping Hand
+- Protect
+
+Kyogre @ Mystic Water
+Ability: Primordial Sea
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Water Spout
+- Origin Pulse
+- Ice Beam
+- Protect
+
+Xerneas @ Power Herb
+Ability: Magic Bounce
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Geomancy
+- Moonblast
+- Dazzling Gleam
+- Protect
+
+Giratina @ Leftovers
+Ability: Fur Coat
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Follow Me
+- Recover
+- Will-O-Wisp
+- Protect
+
+Rayquaza @ Life Orb
+Ability: Aerilate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Extreme Speed
+- Dragon Ascent
+- Fake Out
+- Protect
+
+Solgaleo @ Assault Vest
+Ability: Regenerator
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Sunsteel Strike
+- Close Combat
+- Fake Out
+- U-turn

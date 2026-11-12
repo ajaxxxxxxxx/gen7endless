@@ -1,0 +1,59 @@
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 196 SpD / 116 Spe
+Jolly Nature
+- Knock Off
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Gastly @ Life Orb
+Ability: Levitate
+Level: 5
+EVs: 36 Def / 236 SpA / 196 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Thunderbolt
+- Substitute
+
+Diglett @ Life Orb
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Sucker Punch
+- Memento
+
+Timburr @ Eviolite
+Ability: Guts
+Level: 5
+EVs: 76 HP / 196 Atk / 76 Def / 156 SpD
+Adamant Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Bulk Up
+
+Ponyta @ Eviolite
+Ability: Flame Body
+Level: 5
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe
+Jolly Nature
+- Flare Blitz
+- Wild Charge
+- Morning Sun
+- Will-O-Wisp
+
+Magnemite @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Timid Nature
+- Thunderbolt
+- Flash Cannon
+- Volt Switch
+- Recycle

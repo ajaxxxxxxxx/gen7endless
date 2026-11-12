@@ -1,0 +1,59 @@
+Mienfoo @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 156 HP / 116 Def / 196 SpD
+Impish Nature
+- High Jump Kick
+- Knock Off
+- U-turn
+- Fake Out
+
+Vullaby @ Eviolite
+Ability: Overcoat
+Level: 5
+EVs: 116 HP / 76 Def / 236 SpD / 36 Spe
+Careful Nature
+- Brave Bird
+- Knock Off
+- Roost
+- U-turn
+
+Onix @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 76 HP / 236 Atk / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Rock Blast
+- Explosion
+
+Abra @ Focus Sash
+Ability: Magic Guard
+Level: 5
+EVs: 240 SpA / 200 Spe
+Timid Nature
+- Psychic
+- Shadow Ball
+- Dazzling Gleam
+- Protect
+
+Foongus @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 124 HP / 156 Def / 156 SpD
+Bold Nature
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Synthesis
+
+Staryu @ Eviolite
+Ability: Natural Cure
+Level: 5
+EVs: 116 HP / 156 Def / 236 Spe
+Timid Nature
+- Scald
+- Rapid Spin
+- Recover
+- Thunderbolt

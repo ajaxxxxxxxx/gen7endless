@@ -1,0 +1,59 @@
+Lunala @ Mental Herb
+Ability: Magic Bounce
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Trick Room
+- Moongeist Beam
+- Spore
+- Protect
+
+Groudon @ Life Orb
+Ability: Desolate Land
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Precipice Blades
+- V-create
+- Wide Guard
+- Protect
+
+Dialga @ Leftovers
+Ability: Fur Coat
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Doom Desire
+- Core Enforcer
+- Recover
+- Protect
+
+Magearna @ Safety Goggles
+Ability: Friend Guard
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Fleur Cannon
+- Helping Hand
+- Heal Pulse
+- Protect
+
+Palkia @ Waterium Z
+Ability: Adaptability
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 0 Spe
+Quiet Nature
+- Spacial Rend
+- Hydro Pump
+- Thunderbolt
+- Protect
+
+Zygarde @ Sitrus Berry
+Ability: Prankster
+EVs: 252 HP / 252 Atk / 4 Def
+IVs: 0 Spe
+Brave Nature
+- Thousand Arrows
+- Shore Up
+- Haze
+- Protect
