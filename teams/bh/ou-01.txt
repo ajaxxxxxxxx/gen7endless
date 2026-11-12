@@ -1,54 +1,53 @@
-Landorus-Therian @ Choice Scarf
-Ability: Intimidate
-EVs: 252 Atk / 4 Def / 252 Spe
-Jolly Nature
-- Earthquake
-- Rock Slide
-- U-turn
-- Superpower
-
-Tapu Fini @ Leftovers
-Ability: Misty Surge
-EVs: 252 HP / 100 Def / 156 SpD
-Calm Nature
-- Muddy Water
-- Moonblast
-- Calm Mind
-- Protect
-
-Incineroar @ Figy Berry
-Ability: Intimidate
-EVs: 252 HP / 108 Def / 148 SpD
-Careful Nature
-- Fake Out
-- Flare Blitz
-- Knock Off
-- U-turn
-
-Kartana @ Focus Sash
-Ability: Beast Boost
+Metagross @ Leftovers
+Ability: Magic Bounce
 EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Leaf Blade
-- Smart Strike
-- Sacred Sword
-- Protect
-
-Amoonguss @ Rocky Helmet
-Ability: Regenerator
-EVs: 252 HP / 172 Def / 84 SpD
-Sassy Nature
-IVs: 0 Spe
-- Spore
-- Rage Powder
-- Giga Drain
-- Protect
-
-Metagross @ Assault Vest
-Ability: Clear Body
-EVs: 252 HP / 252 Atk / 4 SpD
 Adamant Nature
 - Meteor Mash
 - Zen Headbutt
 - Bullet Punch
-- Earthquake
+- Protect
+
+Ferrothorn @ Life Orb
+Ability: Dazzling
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Power Whip
+- Gyro Ball
+- Leech Seed
+- Protect
+
+Amoonguss @ Assault Vest
+Ability: Mold Breaker
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Giga Drain
+- Spore
+- Rage Powder
+- Protect
+
+Gyarados @ Sitrus Berry
+Ability: Dazzling
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Waterfall
+- Crunch
+- Dragon Dance
+- Protect
+
+Blaziken @ Rocky Helmet
+Ability: Adaptability
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- High Jump Kick
+- Rock Slide
+- Protect
+
+Incineroar @ Choice Scarf
+Ability: Dazzling
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Flare Blitz
+- Knock Off
+- Fake Out
+- U-turn

@@ -1,53 +1,53 @@
-Pelipper @ Damp Rock
-Ability: Drizzle
-EVs: 248 HP / 252 Def / 8 SpD
-Bold Nature
-- Hurricane
+Pelipper @ Leftovers
+Ability: Multiscale
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
 - Scald
+- Hurricane
 - Tailwind
 - Protect
 
 Kingdra @ Life Orb
-Ability: Swift Swim
-EVs: 4 HP / 252 SpA / 252 Spe
+Ability: Magic Guard
+EVs: 252 HP / 252 SpA / 4 SpD
 Modest Nature
 - Hydro Pump
 - Draco Meteor
 - Ice Beam
 - Protect
 
-Ludicolo @ Assault Vest
-Ability: Swift Swim
-EVs: 76 HP / 252 SpA / 180 Spe
+Gastrodon @ Assault Vest
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 SpD
 Modest Nature
 - Scald
-- Giga Drain
-- Ice Beam
-- Fake Out
-
-Raichu @ Focus Sash
-Ability: Lightning Rod
-EVs: 4 Atk / 252 SpA / 252 Spe
-Timid Nature
-- Fake Out
-- Thunderbolt
-- Encore
+- Earth Power
+- Recover
 - Protect
 
-Swampert @ Swampertite
-Ability: Torrent
+Aegislash @ Sitrus Berry
+Ability: Triage
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Shadow Ball
+- Flash Cannon
+- King's Shield
+- Wide Guard
+
+Mimikyu @ Rocky Helmet
+Ability: Regenerator
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
-- Waterfall
-- Earthquake
-- Ice Punch
+- Play Rough
+- Shadow Claw
+- Swords Dance
 - Protect
 
-Tornadus @ Flyinium Z
-Ability: Prankster
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-- Hurricane
-- Tailwind
-- Taunt
+Ninetales-Alola @ Choice Scarf
+Ability: Intimidate
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Blizzard
+- Moonblast
+- Aurora Veil
 - Protect

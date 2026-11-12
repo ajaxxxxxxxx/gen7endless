@@ -1,53 +1,53 @@
-Rotom-Wash @ Sitrus Berry
-Ability: Levitate
-EVs: 252 HP / 128 Def / 128 SpD
-Calm Nature
+Garchomp @ Leftovers
+Ability: Regenerator
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Dragon Claw
+- Rock Slide
+- Protect
+
+Rotom-Wash @ Life Orb
+Ability: Technician
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
 - Hydro Pump
 - Volt Switch
 - Will-O-Wisp
 - Protect
 
-Arcanine @ Figy Berry
-Ability: Intimidate
-EVs: 252 HP / 76 Atk / 180 Spe
+Arcanine @ Assault Vest
+Ability: Water Absorb
+EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
 - Flare Blitz
 - Extreme Speed
 - Snarl
 - Protect
 
-Garchomp @ Life Orb
-Ability: Rough Skin
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Earthquake
-- Dragon Claw
-- Rock Slide
-- Protect
-
 Togekiss @ Sitrus Berry
-Ability: Serene Grace
-EVs: 252 HP / 116 Def / 140 SpD
-Calm Nature
+Ability: Fur Coat
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
 - Air Slash
 - Follow Me
 - Thunder Wave
 - Protect
 
-Scizor @ Choice Band
-Ability: Technician
-EVs: 248 HP / 252 Atk / 8 SpD
-Adamant Nature
-- Bullet Punch
-- U-turn
-- Superpower
-- Knock Off
+Volcarona @ Rocky Helmet
+Ability: Triage
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+- Heat Wave
+- Bug Buzz
+- Quiver Dance
+- Protect
 
-Milotic @ Leftovers
-Ability: Competitive
-EVs: 252 HP / 172 Def / 84 SpD
-Bold Nature
-- Scald
-- Ice Beam
-- Recover
+Mamoswine @ Choice Scarf
+Ability: Soundproof
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Icicle Crash
+- Earthquake
+- Ice Shard
 - Protect
