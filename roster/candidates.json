@@ -87,6 +87,100 @@
       "weight": 1,
       "set": "Regigigas @ Sitrus Berry\nAbility: Regenerator\nEVs: 252 HP / 128 Def / 128 SpD\nCareful Nature\n- U-turn\n- Volt Switch\n- Parting Shot\n- Dragon Tail",
       "notes": "Three moves switch Regigigas out; Dragon Tail instead forces the target to switch and is therefore not a self-pivot move. Regenerator heals when leaving battle. Not a high-damage sweeper. No Parental Bond or Poison Heal."
+    },
+    {
+      "id": "gengar-focus-sash-coverage",
+      "species": "Gengar",
+      "tier": "regular",
+      "category": "dark-horse",
+      "tags": [
+        "fast-special",
+        "coverage",
+        "spread-fairy",
+        "official-moves",
+        "independent"
+      ],
+      "weight": 3,
+      "set": "Gengar @ Focus Sash\nAbility: Cursed Body\nEVs: 4 HP / 252 SpA / 252 Spe\nTimid Nature\n- Dazzling Gleam\n- Thunderbolt\n- Shadow Ball\n- Dark Pulse",
+      "notes": "All four moves are obtainable by Gengar in Gen 7. Focus Sash provides one chance to survive from full HP; Dark Pulse overlaps Shadow Ball somewhat but preserves the user-specified unconventional coverage set."
+    },
+    {
+      "id": "tentacruel-leftovers-substitute",
+      "species": "Tentacruel",
+      "tier": "regular",
+      "category": "balanced",
+      "tags": [
+        "defensive",
+        "toxic-stall",
+        "substitute",
+        "official-moves",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Tentacruel @ Leftovers\nAbility: Liquid Ooze\nEVs: 252 HP / 128 Def / 128 SpD\nCalm Nature\n- Toxic\n- Protect\n- Scald\n- Substitute",
+      "notes": "Gen 7 legal four-move defensive build. Stronger in Singles than Doubles because Toxic and Substitute consume tempo; traditional Poison typing, Leftovers recovery, and chance to burn via Scald."
+    },
+    {
+      "id": "garchomp-rough-skin-helmet",
+      "species": "Garchomp",
+      "tier": "tough",
+      "category": "balanced",
+      "tags": [
+        "defensive",
+        "contact-punisher",
+        "rocky-helmet",
+        "official-ability",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Garchomp @ Rocky Helmet\nAbility: Rough Skin\nEVs: 252 HP / 128 Def / 128 SpD\nImpish Nature\n- Earthquake\n- Dragon Tail\n- Stealth Rock\n- Protect",
+      "notes": "Rough Skin and Rocky Helmet punish contact; defensive rather than maximizing Attack. Stealth Rock and Dragon Tail are more Singles-oriented, so keep the role tagged for future format weights."
+    },
+    {
+      "id": "ninetales-wise-glasses-coverage",
+      "species": "Ninetales",
+      "tier": "regular",
+      "category": "dark-horse",
+      "tags": [
+        "fast-special",
+        "coverage",
+        "custom-moves",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Ninetales @ Wise Glasses\nAbility: Flash Fire\nEVs: 4 HP / 252 SpA / 252 Spe\nTimid Nature\n- Thunderbolt\n- Flamethrower\n- Ice Beam\n- Scald",
+      "notes": "Four-element attacking coverage; Thunderbolt and Scald are custom move access. Wise Glasses boosts special attacks without Choice lock."
+    },
+    {
+      "id": "ninetales-alola-wise-glasses-coverage",
+      "species": "Ninetales-Alola",
+      "tier": "regular",
+      "category": "dark-horse",
+      "tags": [
+        "fast-special",
+        "coverage",
+        "custom-moves",
+        "independent"
+      ],
+      "weight": 2,
+      "set": "Ninetales-Alola @ Wise Glasses\nAbility: Snow Warning\nEVs: 4 HP / 252 SpA / 252 Spe\nTimid Nature\n- Thunderbolt\n- Flamethrower\n- Ice Beam\n- Scald",
+      "notes": "Four-element special coverage with Snow Warning hail, which does not automatically complement all partner Pokémon. Flamethrower and Scald are custom move access. The set can incidentally hurt friendly non-Ice partners with hail."
+    },
+    {
+      "id": "mimikyu-geomancy-power-herb",
+      "species": "Mimikyu",
+      "tier": "ace",
+      "category": "rogue",
+      "tags": [
+        "setup-sweeper",
+        "special-attacker",
+        "custom-moves",
+        "power-herb",
+        "independent"
+      ],
+      "weight": 1,
+      "set": "Mimikyu @ Power Herb\nAbility: Disguise\nEVs: 4 HP / 252 SpA / 252 Spe\nTimid Nature\n- Geomancy\n- Draining Kiss\n- Dazzling Gleam\n- Shadow Ball",
+      "notes": "Geomancy + Power Herb provides one-turn +2 Special Attack, Special Defense and Speed in Gen 7, while Disguise offers a setup opportunity. Low base Special Attack (50) intentionally tempers the potential; verify Gen 7 BH move restrictions in live validator."
     }
   ]
 }
