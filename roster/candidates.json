@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "description": "Individual opponent candidates for future slot-based team assembly; not yet wired into the battle bot.",
+  "sets": [
+    {
+      "id": "vaporeon-water-absorb-coverage",
+      "species": "Vaporeon",
+      "tier": "regular",
+      "category": "balanced",
+      "tags": [
+        "bulky-special",
+        "coverage",
+        "independent"
+      ],
+      "weight": 3,
+      "set": "Vaporeon @ Assault Vest\nAbility: Water Absorb\nEVs: 252 HP / 128 Def / 128 SpD\nModest Nature\n- Flamethrower\n- Scald\n- Thunderbolt\n- Shadow Ball",
+      "notes": "Water Absorb is Vaporeon's normal ability. All four attacks are permitted by Assault Vest; coverage is expanded through the custom format."
+    },
+    {
+      "id": "zapdos-assault-vest-ace",
+      "species": "Zapdos",
+      "tier": "ace",
+      "category": "ace",
+      "tags": [
+        "bulky-special",
+        "coverage",
+        "independent",
+        "legendary-unrestricted"
+      ],
+      "weight": 1,
+      "set": "Zapdos @ Assault Vest\nAbility: Pressure\nEVs: 252 HP / 128 Def / 128 SpD\nModest Nature\n- Thunderbolt\n- Heat Wave\n- Signal Beam\n- Scald",
+      "notes": "Bulky special coverage ace: Zapdos is a non-restricted legendary. Scald is made available through custom move legality. Not optimized for maximum damage."
+    }
+  ]
+}

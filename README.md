@@ -24,3 +24,7 @@ We use the Showdown **Restricted Legendary** and **Mythical** species categories
 5. Run `scripts/verify_formats.cjs` and `scripts/verify_teams.cjs` inside a built Showdown checkout to check the resulting formats and example rosters.
 
 **Development limitations:** No packaged browser client or automatic next-match UI. The example opponent teams are illustrative and haven't passed a live Showdown validator check; additional balancing is needed. The poke-env integration and custom format compilation are also not yet verified end to end.
+
+### Individual set design candidates
+
+`roster/candidates.json` now contains independently selectable Pokémon concepts rather than full-team permutations. Initial examples: Assault Vest Water Absorb Vaporeon (regular) and bulky Assault Vest Zapdos (ace). The registry is **not yet consumed** by `facility/core.py`; the next implementation step is a slot-based roster generator that enforces unique species/items and checks Showdown legality. Do not assume these example sets have passed the live validator.
